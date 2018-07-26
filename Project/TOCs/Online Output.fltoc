@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/B_Feature Topics/Feature1.htm"
+    ComputeToc="true"
+    ComputedTocDepth="4"
+    ComputedTocAction="Replace"
+    ReplaceMergeNode="false" />
+</CatapultToc>
